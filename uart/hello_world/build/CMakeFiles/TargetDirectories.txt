@@ -1,0 +1,3 @@
+C:/s4projetVivado/uart/hello_world/build/CMakeFiles/hello_world.elf.dir
+C:/s4projetVivado/uart/hello_world/build/CMakeFiles/edit_cache.dir
+C:/s4projetVivado/uart/hello_world/build/CMakeFiles/rebuild_cache.dir
