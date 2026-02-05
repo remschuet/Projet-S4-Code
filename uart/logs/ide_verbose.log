@@ -3846,3 +3846,84 @@ onDebugAdapterExit session: 'd87ebd34-2d85-4f2f-8454-6b0d335348bd'
 2026-02-05 13:55:57 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/s4projetVivado/uart/logs/vitis.log"}
 2026-02-05 13:55:57 [debug] : MonacoEditorModel.doSync - exit {"0":"file:///c:/s4projetVivado/uart/logs/vitis.log"}
 2026-02-05 13:55:57 [debug] : updateThreads failed: {"0":"Error: Connection is closed\n    at t.DebugSessionConnection.doSendRequest (file:///C:/Xilinx/Vitis/2024.1/ide/electron-app/win64/resources/app/lib/bundle.js:2:2944283)\n    at t.DebugSessionConnection.sendRequest (file:///C:/Xilinx/Vitis/2024.1/ide/electron-app/win64/resources/app/lib/bundle.js:2:2943659)\n    at Y.sendRequest (file:///C:/Xilinx/Vitis/2024.1/ide/electron-app/win64/resources/app/lib/bundle.js:2:2973906)\n    at Y.sendRequest (file:///C:/Xilinx/Vitis/2024.1/ide/electron-app/win64/resources/app/lib/bundle.js:2:14498646)\n    at file:///C:/Xilinx/Vitis/2024.1/ide/electron-app/win64/resources/app/lib/bundle.js:2:2974938"}
+2026-02-05 14:09:01 [debug] : Shutting down because of Close request. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/commands'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/keyboard'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/logger'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/messageService'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/startup-workspace'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/remote-filesystem'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/envs'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/workspace'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/stopwatch'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/application'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/i18n'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hostedPlugin'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/project'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/rigel-workspace'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/component'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/debugger'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/debug'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/shell-terminal'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/task'. 
+2026-02-05 14:09:01 [debug] : a client has disconnected - removed from list: 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/quickPick'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/plugin-ext'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/plugin-paths'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/search'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/vsx-environment'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/request-service'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/server'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/feature-registry'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/repository'. 
+2026-02-05 14:09:01 [debug] : [Repository Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/rigel-utils'. 
+2026-02-05 14:09:01 [debug] : [Rigel Utils Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/program_flash'. 
+2026-02-05 14:09:01 [debug] : [Program Flash Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/build'. 
+2026-02-05 14:09:01 [debug] : [Build Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path 'services/rigel-backend-helper'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/aie'. 
+2026-02-05 14:09:01 [debug] : [AIE Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/analysis'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/notification'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/recent-summaries'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/platform'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/l1library/service'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/elf-reader'. 
+2026-02-05 14:09:01 [debug] : [Elf Reader Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/rigel_explorer'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/linker-script'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/rigel-logger'. 
+2026-02-05 14:09:01 [debug] : [Logger Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/vitis-hls'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/device'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/vcxx'. 
+2026-02-05 14:09:01 [debug] : [Rigel Vcxx Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/common/file/service'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/flow_navigator'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/common/data/info'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/dataflow/info'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/directive'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls_flow'. 
+2026-02-05 14:09:01 [debug] : [Hls Flow Server] Disposing objects in backend. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/mini-browser-service'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/project-utils'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/bootgen'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/report'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/hls/wave/open'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/search-in-workspace'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/report-model'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/keytar'. 
+2026-02-05 14:09:01 [debug] : Closing channel on service path '/services/terminals/1'. 
+2026-02-05 14:09:01 [debug] : [hosted-plugin: 24272] Error: connection is closed
+    at Object.create (C:\Xilinx\Vitis\2024.1\ide\electron-app\win64\resources\app\node_modules\@theia\plugin-ext\lib\common\rpc-protocol.js:51:30)
+    at Object.<anonymous> (C:\Xilinx\Vitis\2024.1\ide\electron-app\win64\resources\app\node_modules\@theia\plugin-ext\lib\common\rpc-protocol.js:72:52)
+    at Object.disposable.dispose (C:\Xilinx\Vitis\2024.1\ide\electron-app\win64\resources\app\node_modules\@theia\core\lib\common\disposable.js:95:13)
+    at DisposableCollection.dispose (C:\Xilinx\Vitis\2024.1\ide\electron-app\win64\resources\app\node_modules\@theia\core\lib\common\disposable.js:72:40)
+    at RPCProtocolImpl.dispose (C:\Xilinx\Vitis\2024.1\ide\electron-app\win64\resources\app\node_modules\@theia\plugin-ext\lib\common\rpc-protocol.js:83:24)
+    at process.<anonymous> (C:\Xilinx\Vitis\2024.1\ide\electron-app\win64\resources\app\node_modules\@theia\plugin-ext\lib\hosted\node\plugin-host.js:99:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  code: 'RPC_PROTOCOL_CLOSED'
+} 

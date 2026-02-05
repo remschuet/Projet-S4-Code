@@ -166,3 +166,8 @@ Troubleshooting hints:
 13:50:51 INFO  : configparams force-mem-access 0
 13:50:52 INFO  : Testing the connection for 127.0.0.1
 13:55:56 INFO  : disconnect
+14:09:01 INFO  : connection terminated
+14:09:01 INFO  : connection terminated
+14:09:01 INFO  : scheduling shutdown timer for 2 seconds ...
+14:09:03 INFO  : Terminating Vitis C++ Server
+14:09:03 INFO  : Vitis C++ Server terminated
