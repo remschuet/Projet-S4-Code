@@ -11,17 +11,17 @@
                 lop_1 {
                     compatible = "system-device-tree-v1,lop,assist-v1";
                     node = "/";
-                    outdir = "C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/zynq_fsbl/zynq_fsbl_bsp";
+                    outdir = "C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp";
                     id = "module,baremetal_validate_comp_xlnx";
-                    options = "ps7_cortexa9_0 C:/Xilinx/Vitis/2024.1/data/embeddedsw/lib/sw_services/xilffs_v5_2/src C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/.wsdata/.repo.yaml";
+                    options = "ps7_cortexa9_0 C:/Xilinx/Vitis/2024.1/data/embeddedsw/lib/sw_services/xilffs_v5_2/src C:/s4projetVivado/uart/.wsdata/.repo.yaml";
                 };
 
                 lop_2 {
                     compatible = "system-device-tree-v1,lop,assist-v1";
                     node = "/";
-                    outdir = "C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/zynq_fsbl/zynq_fsbl_bsp";
+                    outdir = "C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp";
                     id = "module,baremetal_validate_comp_xlnx";
-                    options = "ps7_cortexa9_0 C:/Xilinx/Vitis/2024.1/data/embeddedsw/lib/sw_services/xilrsa_v1_8/src C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/.wsdata/.repo.yaml";
+                    options = "ps7_cortexa9_0 C:/Xilinx/Vitis/2024.1/data/embeddedsw/lib/sw_services/xilrsa_v1_8/src C:/s4projetVivado/uart/.wsdata/.repo.yaml";
                 };
 
         };

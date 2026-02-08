@@ -23,7 +23,6 @@
 
 #include "sleep.h"
 
-
 int main()
 {
     init_platform();
@@ -31,10 +30,10 @@ int main()
     print("Hello World\n\r");
 
     int i = 0;
-    while (i < 20) {
+    while(i < 20) {
         i++;
-        xil_printf("%d\r\n", i);
-        usleep((500000));
+        xil_printf("%d\n\r", i);
+        usleep(500000);
     }
 
     print("Successfully ran Hello World application");

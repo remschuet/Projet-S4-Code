@@ -1,4 +1,4 @@
-# Install script for directory: C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/standalone/src/arm/cortexa9
+# Install script for directory: C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/standalone/src/arm/cortexa9
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/standalone/src/arm/cortexa9/gcc/cmake_install.cmake")
+  include("C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/standalone/src/arm/cortexa9/gcc/cmake_install.cmake")
 endif()
 

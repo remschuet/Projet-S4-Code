@@ -2,7 +2,7 @@
 //Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
-//Date        : Wed Jan 21 13:57:04 2026
+//Date        : Sun Feb  8 12:36:14 2026
 //Host        : Ordi-Mai running 64-bit major release  (build 9200)
 //Command     : generate_target uart.bd
 //Design      : uart

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/xilffs/src/include
+# Install script for directory: C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/xilffs/src/include
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

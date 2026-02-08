@@ -1,4 +1,4 @@
-# Install script for directory: C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/emacps/src
+# Install script for directory: C:/s4projetVivado/uart/platform_main/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/emacps/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

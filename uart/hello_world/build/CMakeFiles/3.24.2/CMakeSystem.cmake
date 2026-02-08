@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Windows")
 set(CMAKE_HOST_SYSTEM_VERSION "10.0.26200")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "AMD64")
 
-include("C:/Xilinx/Vivado/2024.1/data/boards/board_files/zybo-z7-10/platform_main/export/platform_main/sw/standalone_ps7_cortexa9_0/cortexa9_toolchain.cmake")
+include("C:/s4projetVivado/uart/platform_main/export/platform_main/sw/standalone_ps7_cortexa9_0/cortexa9_toolchain.cmake")
 
 set(CMAKE_SYSTEM "Generic")
 set(CMAKE_SYSTEM_NAME "Generic")

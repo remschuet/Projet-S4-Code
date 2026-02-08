@@ -2,7 +2,7 @@
 -- Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
--- Date        : Wed Jan 21 13:59:09 2026
+-- Date        : Sun Feb  8 12:37:09 2026
 -- Host        : Ordi-Mai running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode synth_stub
 --               c:/s4projetVivado/uart/uart.gen/sources_1/bd/uart/ip/uart_processing_system7_0_0/uart_processing_system7_0_0_stub.vhdl
