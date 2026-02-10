@@ -42,6 +42,7 @@ int main()
     }
 
     print("\n Test!!! \n");
+    printf("%s\n", (&fish.x == 10) ? "OK" : "TEST FAIL");
     print("\n\n\nEND PROGRAM\n");
     cleanup_platform();
     return 0;
