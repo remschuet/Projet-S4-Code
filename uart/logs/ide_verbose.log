@@ -33912,3 +33912,5 @@ Response handler 'textDocument/documentSymbol' failed with message: Cannot read 
 2026-02-10 11:56:24 [debug] : [Build Output] Build for hello_world:: with id '1c7e0578-f4e2-47c0-843e-47ac80c936d8' completed. 
 2026-02-10 11:56:24 [debug] : [Build Output] Deleting and canceling the build task with id '1c7e0578-f4e2-47c0-843e-47ac80c936d8'. 
 2026-02-10 11:56:24 [debug] : Received event from notification service: ON_DID_BUILD_STOP. 
+2026-02-10 11:56:24 [debug] : Notification event posted from server - ON_UPDATE_FLOWNAVIGATOR_STATUS. 
+2026-02-10 11:56:24 [debug] : Received event from notification service: ON_UPDATE_FLOWNAVIGATOR_STATUS. 
