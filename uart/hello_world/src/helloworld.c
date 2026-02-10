@@ -40,6 +40,8 @@ int main()
         Fish_Print(&fish);
         usleep(500000);
     }
+
+    print("\n Test!!! \n");
     print("\n\n\nEND PROGRAM\n");
     cleanup_platform();
     return 0;
