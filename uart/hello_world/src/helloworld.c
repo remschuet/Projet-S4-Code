@@ -22,21 +22,25 @@
 #include "xil_printf.h"
 
 #include "sleep.h"
+#include "Entity/fish.h"
+#include "Types/struc.h"
 
 int main()
 {
     init_platform();
+    print("\n\n\nSTART PROGRAM\n");
 
-    print("Hello World\n\r");
+    /* Création de l'instance */
+    Fish fish;
+    Fish_Init(&fish, 10, 20);
 
-    int i = 0;
-    while(i < 20) {
-        i++;
-        xil_printf("%d\n\r", i);
+    /* Boucle principale */
+    for(int i = 0; i < 5; i++) {
+        Fish_Update(&fish);
+        Fish_Print(&fish);
         usleep(500000);
     }
-
-    print("Successfully ran Hello World application");
+    print("\n\n\nEND PROGRAM\n");
     cleanup_platform();
     return 0;
 }

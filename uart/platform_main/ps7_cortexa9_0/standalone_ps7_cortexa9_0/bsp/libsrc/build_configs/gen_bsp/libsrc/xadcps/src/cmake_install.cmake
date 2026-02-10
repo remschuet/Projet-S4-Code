@@ -1,4 +1,4 @@
-# Install script for directory: C:/s4projetVivado/uart/platform_main/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/xadcps/src
+# Install script for directory: C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/platform_main/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/xadcps/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

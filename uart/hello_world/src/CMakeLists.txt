@@ -17,12 +17,55 @@ collect(PROJECT_LIB_DEPS xilstandalone;xiltimer)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 collect(PROJECT_LIB_DEPS xil)
 collect(PROJECT_LIB_DEPS gcc)
 collect(PROJECT_LIB_DEPS c)
 
+collect (PROJECT_LIB_SOURCES Core/game.c)
+collect (PROJECT_LIB_SOURCES Core/level.c)
+collect (PROJECT_LIB_SOURCES Entity/fish.c)
+collect (PROJECT_LIB_SOURCES Entity/pipe.c)
 collect (PROJECT_LIB_SOURCES helloworld.c)
 collect (PROJECT_LIB_SOURCES platform.c)
+collect (PROJECT_LIB_SOURCES Utils/collision.c)
+collect (PROJECT_LIB_SOURCES Utils/input_manager.c)
+collect (PROJECT_LIB_SOURCES Visual/animation.c)
+collect (PROJECT_LIB_SOURCES Visual/visual.c)
 collector_list (_sources PROJECT_LIB_SOURCES)
 foreach (source ${_sources})
     get_filename_component(ext ${source} EXT)

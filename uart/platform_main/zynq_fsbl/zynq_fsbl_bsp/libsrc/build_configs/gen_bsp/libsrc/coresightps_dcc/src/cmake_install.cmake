@@ -1,4 +1,4 @@
-# Install script for directory: C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/coresightps_dcc/src
+# Install script for directory: C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/coresightps_dcc/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

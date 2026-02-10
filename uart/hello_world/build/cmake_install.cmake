@@ -1,4 +1,4 @@
-# Install script for directory: C:/s4projetVivado/uart/hello_world/src
+# Install script for directory: C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/hello_world/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/s4projetVivado/uart/hello_world/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/hello_world/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

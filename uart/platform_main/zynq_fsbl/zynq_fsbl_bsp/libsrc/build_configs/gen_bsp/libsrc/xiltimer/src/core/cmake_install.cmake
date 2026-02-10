@@ -1,4 +1,4 @@
-# Install script for directory: C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/xiltimer/src/core
+# Install script for directory: C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/xiltimer/src/core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/xiltimer/src/core/default_timer/cmake_install.cmake")
-  include("C:/s4projetVivado/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/xiltimer/src/core/scutimer/cmake_install.cmake")
+  include("C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/xiltimer/src/core/default_timer/cmake_install.cmake")
+  include("C:/Users/remsc/Desktop/GIT/Projet-S4-Code/uart/platform_main/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/xiltimer/src/core/scutimer/cmake_install.cmake")
 
 endif()
 
